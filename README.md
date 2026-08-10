@@ -1496,7 +1496,7 @@
                                 <td class="text-end">4.00</td>
                                 
                                 <td class="text-end">
-                                    <span class="position-relative  text-success" style="font-weight:800 ;">3.00</span> 
+                                    <span class="position-relative  text-success" style="font-weight:800 ;">2.00</span> 
                                     
                                 </td>
                                 <td class="text-end">8.000 </td>
