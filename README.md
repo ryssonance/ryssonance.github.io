@@ -40,7 +40,7 @@
                                     <ul class="mobile-icons">
                     
                                             <li>
-                           <a class="menu-link">Dashboard (Disabled)</a>
+                           <a class="menu-link">Dashboard </a>
                                 <div class="menu-item">
                 <span class="menu-icon"><div class="btn-white"><i class="bi bi-house-door-fill"></i></div></span>
                                 </div>
@@ -50,7 +50,7 @@
                                                                                 <ul class="mobile-icons">
                     
                                             <li>
-                           <a class="menu-link">Enrollment (Disabled)</a>
+                           <a class="menu-link">Enrollment </a>
                                 <div class="menu-item">
                 <span class="menu-icon"><div class="btn-white"><i class="bi bi-calendar-check-fill"></i></div></span>
                                 </div>
@@ -60,7 +60,7 @@
                                                                                 <ul class="mobile-icons">
                     
                                             <li>
-                            <a class="menu-link">Grades (Disabled)</a>
+                            <a class="menu-link">Grades </a>
                                 <div class="menu-item">
                 <span class="menu-icon"><div class="btn-white"><i class="bi bi-123"></i></div></span>
                                 </div>
@@ -70,7 +70,7 @@
                                                             <ul class="mobile-icons">
                     
                                             <li>
-                            <a class="menu-link">Tuition Summary (Disabled)</a>
+                            <a class="menu-link">Tuition Summary </a>
                                 <div class="menu-item">
                 <span class="menu-icon"><div class="btn-white"><i class="bi bi-cash"></i></div></span>
                                 </div>
@@ -110,7 +110,7 @@
                 <div class="offcanvas-body">
                     <ul class="navbar-nav justify-content-end flex-grow-1 pe-3">
                                                                                     <li class="mobilenav-item">
-                                    <a class="mobilemenu-link">Dashboard (Disabled) </a>
+                                    <a class="mobilemenu-link">Dashboard </a>
                                         <div class="mobilemenu-item">
                 <span class="mobilemenu-icon"><i class="bi bi-house-door-fill"></i>
                   <span class="mobilemenu-text">Home</span>
@@ -133,7 +133,7 @@
                                     </a>
                                     <ul class="collapse mobilesubmenu" id="submenu-1">
                                                                                     <li>
-                                                <a class="mobilesubmenu-link">MyAdvising (Disabled0 </a>
+                                                <a class="mobilesubmenu-link">MyAdvising </a>
                                                     <div class="mobilesubmenu-item">
                       <span class="mobilesubmenu-icon"><i class="bi bi-check-square"></i>
                         <span class="mobilesubmenu-text">My Advising</span>
@@ -142,7 +142,7 @@
                                                 </a>
                                             </li>
                                                                                     <li>
-                                                <a class="mobilesubmenu-link">MyAdvising (Disabled) </a>
+                                                <a class="mobilesubmenu-link">MyAdvising </a>
                                                     <div class="mobilesubmenu-item">
                       <span class="mobilesubmenu-icon"><i class="bi bi-card-checklist"></i>
                         <span class="mobilesubmenu-text">Add Classes</span>
@@ -151,7 +151,7 @@
                                                 </a>
                                             </li>
                                                                                     <li>
-                                                <a class="mobilesubmenu-link">Curriculum Plans (Disabled) (/a>
+                                                <a class="mobilesubmenu-link">Curriculum Plans (/a>
                                                     <div class="mobilesubmenu-item">
                       <span class="mobilesubmenu-icon"><i class="bi bi-list-task"></i>
                         <span class="mobilesubmenu-text">View Curriculum Plans</span>
@@ -162,7 +162,7 @@
                                                                             </ul>
                                 </li>
                                                                                                                 <li class="mobilenav-item">
-                                    <a class="mobilemenu-link">Enrollment (Disabled)</a>
+                                    <a class="mobilemenu-link">Enrollment </a>
                                         <div class="mobilemenu-item">
                 <span class="mobilemenu-icon"><i class="bi bi-calendar-check-fill"></i>
                   <span class="mobilemenu-text">Enrollment</span>
@@ -185,7 +185,7 @@
                                     </a>
                                     <ul class="collapse mobilesubmenu" id="submenu-3">
                                                                                     <li>
-                                                <a class="mobilesubmenu-link">Add Slot Requests (Disabled) </a>
+                                                <a class="mobilesubmenu-link">Add Slot Requests </a>
                                                     <div class="mobilesubmenu-item">
                       <span class="mobilesubmenu-icon"><i class="bi bi-journal-text"></i>
                         <span class="mobilesubmenu-text">View Your Requests</span>
@@ -194,7 +194,7 @@
                                                 </a>
                                             </li>
                                                                                     <li>
-                                                <a class="mobilesubmenu-link">Add Slot (Disabled) </a>
+                                                <a class="mobilesubmenu-link">Add Slot </a>
                                                     <div class="mobilesubmenu-item">
                       <span class="mobilesubmenu-icon"><i class="bi bi-journal-plus"></i>
                         <span class="mobilesubmenu-text">Request Add Slot</span>
