@@ -282,7 +282,7 @@
             <div class="d-flex flex-column flex-grow-1">
                 <button class="btn user my-2 text-nowrap">
                     <span class="menu-icon  text-primary"><i class="bi bi-person-fill pe-2"></i></span>
-                    <span><h8>Welcome zebaptista !</h8></span>
+                    <span><h8> Welcome zebaptista!</h8></span>
                 </button>
                 <ul class="sidebar-nav flex-grow-1" style="overflow-y: auto; ">
                                                                         <li>
