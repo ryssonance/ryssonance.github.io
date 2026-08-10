@@ -27,7 +27,7 @@
         <nav class="sticky-top">
             <div class="container-fluid" style="flex-grow:1;">
                 <div class="logo-container">
-                    <a class="navbar-brand ">Dashboard (Disabled)<a/>
+                    <a class="navbar-brand ">
                         <img class="" height="35" src="https://iskolar.upm.edu.ph/assets/img/up-logo.webp">
                         ISKOLAR<span class="trademark" style="font-size: 1svh;
     vertical-align: text-top;">TM</span>
