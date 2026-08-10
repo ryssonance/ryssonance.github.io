@@ -40,7 +40,7 @@
                                     <ul class="mobile-icons">
                     
                                             <li>
-                           <a class="menu-link">Dashboard
+                           <a class="menu-link">
                                 <div class="menu-item">
                 <span class="menu-icon"><div class="btn-white"><i class="bi bi-house-door-fill"></i></div></span>
                                 </div>
@@ -249,7 +249,7 @@
                             <a href="#" class="navbar-brand" id="sidebar-toggle"><i class="bi bi-list"></i></a>
                         </div>
                         <div class="logo-container">
-                            <a class="navbar-brand "> Dashboard
+                            <a class="navbar-brand "> 
                                 <img class="" height="35" src="https://iskolar.upm.edu.ph/assets/img/up-logo.webp">
                                 ISKOLAR<span class="trademark" style="font-size: 1svh;
     vertical-align: text-top;">TM</span>
@@ -286,7 +286,7 @@
                 </button>
                 <ul class="sidebar-nav flex-grow-1" style="overflow-y: auto; ">
                                                                         <li>
-                                <a class="menu-link"> Dashboard
+                                <a class="menu-link"> 
                                     <div class="menu-item">
                                         <span class="menu-icon"><i class="bi bi-house-door-fill"></i></span>
                                         <span class="menu-text">Home</span>
