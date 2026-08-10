@@ -40,7 +40,7 @@
                                     <ul class="mobile-icons">
                     
                                             <li>
-                            <a class="menu-link" href="https://iskolar.upm.edu.ph/dashboard">
+                           <a class="menu-link">Dashboard (Disabled)</a>
                                 <div class="menu-item">
                 <span class="menu-icon"><div class="btn-white"><i class="bi bi-house-door-fill"></i></div></span>
                                 </div>
@@ -50,7 +50,7 @@
                                                                                 <ul class="mobile-icons">
                     
                                             <li>
-                            <a class="menu-link" href="https://iskolar.upm.edu.ph/enrollment">
+                           <a class="menu-link">Enrollment (Disabled)</a>
                                 <div class="menu-item">
                 <span class="menu-icon"><div class="btn-white"><i class="bi bi-calendar-check-fill"></i></div></span>
                                 </div>
@@ -60,7 +60,7 @@
                                                                                 <ul class="mobile-icons">
                     
                                             <li>
-                            <a class="menu-link" href="https://iskolar.upm.edu.ph/student/classes/grades">
+                            <a class="menu-link">Grades (Disabled)</a>
                                 <div class="menu-item">
                 <span class="menu-icon"><div class="btn-white"><i class="bi bi-123"></i></div></span>
                                 </div>
@@ -70,7 +70,7 @@
                                                             <ul class="mobile-icons">
                     
                                             <li>
-                            <a class="menu-link" href="https://iskolar.upm.edu.ph/student/tuition-summary">
+                            <a class="menu-link">Tuition Summary (Disabled)</a>
                                 <div class="menu-item">
                 <span class="menu-icon"><div class="btn-white"><i class="bi bi-cash"></i></div></span>
                                 </div>
@@ -96,22 +96,21 @@
         </a> -->
     <div id="dropDownRoles" class="dropdown">
     <a class="nav-link dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-bs-toggle="dropdown" aria-expanded="false">
-        <img src="https://lh3.googleusercontent.com/a/ACg8ocIn9qfZlgzTopvJfVP1jHbW79Dtn8eNASQA8g_2A09sNoent4_j=s96-c" class="avatar header-logo" referrerpolicy="no-referrer">
-            <span>jrsantos30</span>
+            <span>zebaptista</span>
       <span id="currole">[Student]</span>
     </a>
         <ul class="dropdown-menu menu-role" aria-labelledby="dropdownMenuLink">
-      <li><span>Logged in as <b>JRSANTOS30</b></span></li>
-      <li><span>jrsantos30@up.edu.ph</span></li>
-                  <li class="menu-switch"><button class="btn btn-secondary btn-log-out" onclick="location.href='https://iskolar.upm.edu.ph/profile/edit'"><i class="bi bi-person-circle"></i>&nbsp;Edit Profile</button></li>
-            <li class="menu-switch"><button class="btn btn-primary btn-log-out" onclick="location.href='https://iskolar.upm.edu.ph/logout'"><i class="bi bi-box-arrow-left"></i>&nbsp;Log Out</button></li>
+      <li><span>Logged in as <b>ZEBAPTISTA</b></span></li>
+      <li><span>zebaptista@up.edu.ph</span></li>
+                  <li class="menu-switch"><button class="btn btn-secondary btn-log-out" onclick="location.href='https://iskolar.upm.edu.ph/profile/edit'" disabled><i class="bi bi-person-circle"></i>&nbsp;Edit Profile</button></li>
+            <li class="menu-switch"><button class="btn btn-primary btn-log-out" onclick="location.href='https://iskolar.upm.edu.ph/logout'" disabled><i class="bi bi-box-arrow-left"></i>&nbsp;Log Out</button></li>
     </ul>
   </div>
   </div>                </div>
                 <div class="offcanvas-body">
                     <ul class="navbar-nav justify-content-end flex-grow-1 pe-3">
                                                                                     <li class="mobilenav-item">
-                                    <a class="mobilemenu-link" href="https://iskolar.upm.edu.ph/dashboard">
+                                    <a class="mobilemenu-link">Dashboard (Disabled) </a>
                                         <div class="mobilemenu-item">
                 <span class="mobilemenu-icon"><i class="bi bi-house-door-fill"></i>
                   <span class="mobilemenu-text">Home</span>
@@ -134,7 +133,7 @@
                                     </a>
                                     <ul class="collapse mobilesubmenu" id="submenu-1">
                                                                                     <li>
-                                                <a class="mobilesubmenu-link" href="https://iskolar.upm.edu.ph/student/myadvising">
+                                                <a class="mobilesubmenu-link">MyAdvising (Disabled0 </a>
                                                     <div class="mobilesubmenu-item">
                       <span class="mobilesubmenu-icon"><i class="bi bi-check-square"></i>
                         <span class="mobilesubmenu-text">My Advising</span>
@@ -143,7 +142,7 @@
                                                 </a>
                                             </li>
                                                                                     <li>
-                                                <a class="mobilesubmenu-link" href="https://iskolar.upm.edu.ph/advising">
+                                                <a class="mobilesubmenu-link">MyAdvising (Disabled) </a>
                                                     <div class="mobilesubmenu-item">
                       <span class="mobilesubmenu-icon"><i class="bi bi-card-checklist"></i>
                         <span class="mobilesubmenu-text">Add Classes</span>
