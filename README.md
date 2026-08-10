@@ -27,7 +27,7 @@
         <nav class="sticky-top">
             <div class="container-fluid" style="flex-grow:1;">
                 <div class="logo-container">
-                    <a class="navbar-brand " href="https://iskolar.upm.edu.ph/dashboard">
+                    <a class="navbar-brand ">Dashboard (Disabled)<a/>
                         <img class="" height="35" src="https://iskolar.upm.edu.ph/assets/img/up-logo.webp">
                         ISKOLAR<span class="trademark" style="font-size: 1svh;
     vertical-align: text-top;">TM</span>
@@ -151,7 +151,7 @@
                                                 </a>
                                             </li>
                                                                                     <li>
-                                                <a class="mobilesubmenu-link" href="https://iskolar.upm.edu.ph/acadprograms/curriculums/">
+                                                <a class="mobilesubmenu-link">Curriculum Plans (Disabled) (/a>
                                                     <div class="mobilesubmenu-item">
                       <span class="mobilesubmenu-icon"><i class="bi bi-list-task"></i>
                         <span class="mobilesubmenu-text">View Curriculum Plans</span>
@@ -162,7 +162,7 @@
                                                                             </ul>
                                 </li>
                                                                                                                 <li class="mobilenav-item">
-                                    <a class="mobilemenu-link" href="https://iskolar.upm.edu.ph/enrollment">
+                                    <a class="mobilemenu-link">Enrollment (Disabled)</a>
                                         <div class="mobilemenu-item">
                 <span class="mobilemenu-icon"><i class="bi bi-calendar-check-fill"></i>
                   <span class="mobilemenu-text">Enrollment</span>
@@ -185,7 +185,7 @@
                                     </a>
                                     <ul class="collapse mobilesubmenu" id="submenu-3">
                                                                                     <li>
-                                                <a class="mobilesubmenu-link" href="https://iskolar.upm.edu.ph/student/add-slot/requests">
+                                                <a class="mobilesubmenu-link">Add Slot Requests (Disabled) </a>
                                                     <div class="mobilesubmenu-item">
                       <span class="mobilesubmenu-icon"><i class="bi bi-journal-text"></i>
                         <span class="mobilesubmenu-text">View Your Requests</span>
@@ -194,7 +194,7 @@
                                                 </a>
                                             </li>
                                                                                     <li>
-                                                <a class="mobilesubmenu-link" href="https://iskolar.upm.edu.ph/student/add-slot">
+                                                <a class="mobilesubmenu-link">Add Slot (Disabled) </a>
                                                     <div class="mobilesubmenu-item">
                       <span class="mobilesubmenu-icon"><i class="bi bi-journal-plus"></i>
                         <span class="mobilesubmenu-text">Request Add Slot</span>
@@ -205,7 +205,7 @@
                                                                             </ul>
                                 </li>
                                                                                                                 <li class="mobilenav-item">
-                                    <a class="mobilemenu-link" href="https://iskolar.upm.edu.ph/student/classes/grades">
+                                    <a class="mobilemenu-link">Grades </a>
                                         <div class="mobilemenu-item">
                 <span class="mobilemenu-icon"><i class="bi bi-123"></i>
                   <span class="mobilemenu-text">Grades</span>
@@ -214,7 +214,7 @@
                                     </a>
                                 </li>
                                                                                                                 <li class="mobilenav-item">
-                                    <a class="mobilemenu-link" href="https://iskolar.upm.edu.ph/student/tuition-summary">
+                                    <a class="mobilemenu-link"> Tuition Summary </a>
                                         <div class="mobilemenu-item">
                 <span class="mobilemenu-icon"><i class="bi bi-cash"></i>
                   <span class="mobilemenu-text">Payments</span>
@@ -249,7 +249,7 @@
                             <a href="#" class="navbar-brand" id="sidebar-toggle"><i class="bi bi-list"></i></a>
                         </div>
                         <div class="logo-container">
-                            <a class="navbar-brand " href="https://iskolar.upm.edu.ph/dashboard">
+                            <a class="navbar-brand "> Dashboard </a>
                                 <img class="" height="35" src="https://iskolar.upm.edu.ph/assets/img/up-logo.webp">
                                 ISKOLAR<span class="trademark" style="font-size: 1svh;
     vertical-align: text-top;">TM</span>
@@ -265,13 +265,12 @@
         </a> -->
     <div id="dropDownRoles" class="dropdown">
     <a class="nav-link dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-bs-toggle="dropdown" aria-expanded="false">
-        <img src="https://lh3.googleusercontent.com/a/ACg8ocIn9qfZlgzTopvJfVP1jHbW79Dtn8eNASQA8g_2A09sNoent4_j=s96-c" class="avatar header-logo" referrerpolicy="no-referrer">
-            <span>jrsantos30</span>
+            <span>zebaptista</span>
       <span id="currole">[Student]</span>
     </a>
         <ul class="dropdown-menu menu-role" aria-labelledby="dropdownMenuLink" style="">
-      <li><span>Logged in as <b>JRSANTOS30</b></span></li>
-      <li><span>jrsantos30@up.edu.ph</span></li>
+      <li><span>Logged in as <b>ZEBAPTISTA</b></span></li>
+      <li><span>zebaptista@up.edu.ph</span></li>
                   <li class="menu-switch"><button class="btn btn-secondary btn-log-out" onclick="location.href='https://iskolar.upm.edu.ph/profile/edit'"><i class="bi bi-person-circle"></i>&nbsp;Edit Profile</button></li>
             <li class="menu-switch"><button class="btn btn-primary btn-log-out" onclick="location.href='https://iskolar.upm.edu.ph/logout'"><i class="bi bi-box-arrow-left"></i>&nbsp;Log Out</button></li>
     </ul>
@@ -287,7 +286,7 @@
                 </button>
                 <ul class="sidebar-nav flex-grow-1" style="overflow-y: auto; ">
                                                                         <li>
-                                <a class="menu-link" href="https://iskolar.upm.edu.ph/dashboard">
+                                <a class="menu-link"> Dashboard </a>
                                     <div class="menu-item">
                                         <span class="menu-icon"><i class="bi bi-house-door-fill"></i></span>
                                         <span class="menu-text">Home</span>
@@ -308,7 +307,7 @@
                                 </a>
                                 <ul class="collapse mx-2" id="submenu-1">
                                                                             <li>
-                                            <a class="submenu-link" href="https://iskolar.upm.edu.ph/student/myadvising">
+                                            <a class="submenu-link"> My Advising </a>
                                                 <div class="submenu-item">
                                                     <span class="submenu-icon"><i class="bi bi-check-square"></i></span>
                                                     <span class="submenu-text">My Advising</span>
@@ -316,7 +315,7 @@
                                             </a>
                                         </li>
                                                                             <li>
-                                            <a class="submenu-link" href="https://iskolar.upm.edu.ph/advising">
+                                            <a class="submenu-link"> Advising </a>
                                                 <div class="submenu-item">
                                                     <span class="submenu-icon"><i class="bi bi-card-checklist"></i></span>
                                                     <span class="submenu-text">Add Classes</span>
@@ -324,7 +323,7 @@
                                             </a>
                                         </li>
                                                                             <li>
-                                            <a class="submenu-link" href="https://iskolar.upm.edu.ph/acadprograms/curriculums/">
+                                            <a class="submenu-link"> Curriculum </a>
                                                 <div class="submenu-item">
                                                     <span class="submenu-icon"><i class="bi bi-list-task"></i></span>
                                                     <span class="submenu-text">View Curriculum Plans</span>
@@ -334,7 +333,7 @@
                                                                     </ul>
                             </li>
                                                                                                 <li>
-                                <a class="menu-link" href="https://iskolar.upm.edu.ph/enrollment">
+                                <a class="menu-link"> Enrollment </a>
                                     <div class="menu-item">
                                         <span class="menu-icon"><i class="bi bi-calendar-check-fill"></i></span>
                                         <span class="menu-text">Enrollment</span>
@@ -355,7 +354,7 @@
                                 </a>
                                 <ul class="collapse mx-2" id="submenu-3">
                                                                             <li>
-                                            <a class="submenu-link" href="https://iskolar.upm.edu.ph/student/add-slot/requests">
+                                            <a class="submenu-link"> Add Slot Requests </a>
                                                 <div class="submenu-item">
                                                     <span class="submenu-icon"><i class="bi bi-journal-text"></i></span>
                                                     <span class="submenu-text">View Your Requests</span>
@@ -363,7 +362,7 @@
                                             </a>
                                         </li>
                                                                             <li>
-                                            <a class="submenu-link" href="https://iskolar.upm.edu.ph/student/add-slot">
+                                            <a class="submenu-link"> Add Slot </a>
                                                 <div class="submenu-item">
                                                     <span class="submenu-icon"><i class="bi bi-journal-plus"></i></span>
                                                     <span class="submenu-text">Request Add Slot</span>
@@ -373,7 +372,7 @@
                                                                     </ul>
                             </li>
                                                                                                 <li>
-                                <a class="menu-link" href="https://iskolar.upm.edu.ph/student/classes/grades">
+                                <a class="menu-link"> Grades </a>
                                     <div class="menu-item">
                                         <span class="menu-icon"><i class="bi bi-123"></i></span>
                                         <span class="menu-text">Grades</span>
@@ -381,7 +380,7 @@
                                 </a>
                             </li>
                                                                                                 <li>
-                                <a class="menu-link" href="https://iskolar.upm.edu.ph/student/tuition-summary">
+                                <a class="menu-link"> Tuition Summary </a>
                                     <div class="menu-item">
                                         <span class="menu-icon"><i class="bi bi-cash"></i></span>
                                         <span class="menu-text">Payments</span>
@@ -408,7 +407,7 @@
             btn.addEventListener('click', function () {
                 window.history.length > 1
                     ? window.history.back()
-                    : window.location.href = 'https://iskolar.upm.edu.ph/dashboard';
+                    : window.location.href = '#';
             });
         }
     });
@@ -501,8 +500,8 @@
 </style>
 <div id="print-content" class="print-only">
   
-  <p class="mb-0">Name: Julia Clarisse Reyes Santos</p>
-  <p class="mb-0">Student Number: 202400340</p>
+  <p class="mb-0">Name: Zyann Angeline Encinares Baptista</p>
+  <p class="mb-0">Student Number: 202446093</p>
   <p class="">Term: Second Semester, A.Y. 2025 - 2026</p>
   <h5 class="fw-bold">Grades</h5>
     <h5>Bachelor of Science in Public Health - UGSM</h5>
@@ -535,11 +534,11 @@
                     <td class="text-end">4.00</td>
                     
                     <td class="text-end">
-                        <span class="position-relative  text-success" style="font-weight:800 ;">2.00</span> 
+                        <span class="position-relative  text-success" style="font-weight:800 ;">2.50</span> 
 
                         
                     </td>
-                    <td class="text-end">8.000 </td>
+                    <td class="text-end">10.000 </td>
                     <td></td>
                 </tr>
                                 <tr>
@@ -671,7 +670,7 @@
                   </tr>
                   <tr>
                     <td>Total Grade Points</td>
-                    <td class="text-end">29.000</td>
+                    <td class="text-end">32.000</td>
                     <td class="text-end">108.500</td>
                   </tr>
                   <tr>
@@ -681,7 +680,7 @@
                   </tr>
                   <tr>
                     <td><strong>GWA</strong></td>
-                    <td class="text-end">1.6111</td>
+                    <td class="text-end">1.7778</td>
                     <td class="text-end"><strong>1.5282</strong></td>
                   </tr>
               </tbody>
@@ -1282,10 +1281,6 @@
                       <label for="term" class="form-label">Select a term:</label>
             <select class="form-select m-0 mb-3" id="term" aria-label="Default select example">
                                                     <option value="117" selected="">Second Semester 2025 - 2026 </option>
-                                    <option value="114">First Semester 2025 - 2026 </option>
-                                    <option value="92">Midyear 2024-2025 </option>
-                                    <option value="91">Second Semester 2024 - 2025 </option>
-                                    <option value="90">First Semester 2024 - 2025 </option>
                               </select>
                             <h5>Bachelor of Science in Public Health - UGSM</h5>
             <div class="rounded overflow-auto mb-3">
@@ -1421,10 +1416,10 @@
                                 <td class="text-end">4.00</td>
                                 
                                 <td class="text-end">
-                                    <span class="position-relative  text-success" style="font-weight:800 ;">2.00</span> 
+                                    <span class="position-relative  text-success" style="font-weight:800 ;">2.50</span> 
                                     
                                 </td>
-                                <td class="text-end">8.000 </td>
+                                <td class="text-end">10.000 </td>
                                 <td></td>
 
                             </tr>
@@ -1594,7 +1589,7 @@
                   </tr>
                   <tr>
                     <td>Total Grade Points</td>
-                    <td class="text-end">29.000</td>
+                    <td class="text-end">32.000</td>
                     <td class="text-end">108.500</td>
                   </tr>
                   <tr>
@@ -1604,7 +1599,7 @@
                   </tr>
                   <tr>
                     <td><h4><strong>GWA</strong></h4></td>
-                    <td class="text-end"><h4><strong>1.6111</strong></h4></td>
+                    <td class="text-end"><h4><strong>1.7778</strong></h4></td>
                     <td class="text-end"><h4><strong>1.5282</strong></h4></td>
                   </tr>
               </tbody>
@@ -1624,7 +1619,7 @@
         $('#term').on('change', function() {
             $('#classGrades').addClass('loading');
             $('#gwaCalc').addClass('loading');
-            window.location.href = "https://iskolar.upm.edu.ph/student/classes/grades?term=" + $(this).val();
+            window.location.href = "#" + $(this).val();
         });
     });
 </script>
