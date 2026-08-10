@@ -40,7 +40,7 @@
                                     <ul class="mobile-icons">
                     
                                             <li>
-                           <a class="menu-link">Dashboard </a>
+                           <a class="menu-link">Dashboard
                                 <div class="menu-item">
                 <span class="menu-icon"><div class="btn-white"><i class="bi bi-house-door-fill"></i></div></span>
                                 </div>
@@ -50,7 +50,7 @@
                                                                                 <ul class="mobile-icons">
                     
                                             <li>
-                           <a class="menu-link">Enrollment </a>
+                           <a class="menu-link">Enrollment
                                 <div class="menu-item">
                 <span class="menu-icon"><div class="btn-white"><i class="bi bi-calendar-check-fill"></i></div></span>
                                 </div>
@@ -60,7 +60,7 @@
                                                                                 <ul class="mobile-icons">
                     
                                             <li>
-                            <a class="menu-link">Grades </a>
+                            <a class="menu-link">Grades
                                 <div class="menu-item">
                 <span class="menu-icon"><div class="btn-white"><i class="bi bi-123"></i></div></span>
                                 </div>
@@ -70,7 +70,7 @@
                                                             <ul class="mobile-icons">
                     
                                             <li>
-                            <a class="menu-link">Tuition Summary </a>
+                            <a class="menu-link">Tuition Summary
                                 <div class="menu-item">
                 <span class="menu-icon"><div class="btn-white"><i class="bi bi-cash"></i></div></span>
                                 </div>
@@ -110,7 +110,7 @@
                 <div class="offcanvas-body">
                     <ul class="navbar-nav justify-content-end flex-grow-1 pe-3">
                                                                                     <li class="mobilenav-item">
-                                    <a class="mobilemenu-link">Dashboard </a>
+                                    <a class="mobilemenu-link">Dashboard
                                         <div class="mobilemenu-item">
                 <span class="mobilemenu-icon"><i class="bi bi-house-door-fill"></i>
                   <span class="mobilemenu-text">Home</span>
@@ -133,7 +133,7 @@
                                     </a>
                                     <ul class="collapse mobilesubmenu" id="submenu-1">
                                                                                     <li>
-                                                <a class="mobilesubmenu-link">MyAdvising </a>
+                                                <a class="mobilesubmenu-link">My Advising
                                                     <div class="mobilesubmenu-item">
                       <span class="mobilesubmenu-icon"><i class="bi bi-check-square"></i>
                         <span class="mobilesubmenu-text">My Advising</span>
@@ -142,7 +142,7 @@
                                                 </a>
                                             </li>
                                                                                     <li>
-                                                <a class="mobilesubmenu-link">MyAdvising </a>
+                                                <a class="mobilesubmenu-link">My Advising
                                                     <div class="mobilesubmenu-item">
                       <span class="mobilesubmenu-icon"><i class="bi bi-card-checklist"></i>
                         <span class="mobilesubmenu-text">Add Classes</span>
@@ -151,7 +151,7 @@
                                                 </a>
                                             </li>
                                                                                     <li>
-                                                <a class="mobilesubmenu-link">Curriculum Plans (/a>
+                                                <a class="mobilesubmenu-link"> Curriculum Plans
                                                     <div class="mobilesubmenu-item">
                       <span class="mobilesubmenu-icon"><i class="bi bi-list-task"></i>
                         <span class="mobilesubmenu-text">View Curriculum Plans</span>
@@ -162,7 +162,7 @@
                                                                             </ul>
                                 </li>
                                                                                                                 <li class="mobilenav-item">
-                                    <a class="mobilemenu-link">Enrollment </a>
+                                    <a class="mobilemenu-link"> Enrollment
                                         <div class="mobilemenu-item">
                 <span class="mobilemenu-icon"><i class="bi bi-calendar-check-fill"></i>
                   <span class="mobilemenu-text">Enrollment</span>
@@ -194,7 +194,7 @@
                                                 </a>
                                             </li>
                                                                                     <li>
-                                                <a class="mobilesubmenu-link">Add Slot </a>
+                                                <a class="mobilesubmenu-link"> Add Slot
                                                     <div class="mobilesubmenu-item">
                       <span class="mobilesubmenu-icon"><i class="bi bi-journal-plus"></i>
                         <span class="mobilesubmenu-text">Request Add Slot</span>
@@ -205,7 +205,7 @@
                                                                             </ul>
                                 </li>
                                                                                                                 <li class="mobilenav-item">
-                                    <a class="mobilemenu-link">Grades </a>
+                                    <a class="mobilemenu-link"> Grades
                                         <div class="mobilemenu-item">
                 <span class="mobilemenu-icon"><i class="bi bi-123"></i>
                   <span class="mobilemenu-text">Grades</span>
@@ -214,7 +214,7 @@
                                     </a>
                                 </li>
                                                                                                                 <li class="mobilenav-item">
-                                    <a class="mobilemenu-link"> Tuition Summary </a>
+                                    <a class="mobilemenu-link"> Tuition Summary 
                                         <div class="mobilemenu-item">
                 <span class="mobilemenu-icon"><i class="bi bi-cash"></i>
                   <span class="mobilemenu-text">Payments</span>
@@ -223,7 +223,7 @@
                                     </a>
                                 </li>
                                                                                                                 <li class="mobilenav-item">
-                                    <a class="mobilemenu-link" href="https://iskolar.upm.edu.ph/logout">
+                                    <a class="mobilemenu-link">
                                         <div class="mobilemenu-item">
                 <span class="mobilemenu-icon"><i class="bi bi-box-arrow-left"></i>
                   <span class="mobilemenu-text">Log Out</span>
@@ -249,7 +249,7 @@
                             <a href="#" class="navbar-brand" id="sidebar-toggle"><i class="bi bi-list"></i></a>
                         </div>
                         <div class="logo-container">
-                            <a class="navbar-brand "> Dashboard </a>
+                            <a class="navbar-brand "> Dashboard
                                 <img class="" height="35" src="https://iskolar.upm.edu.ph/assets/img/up-logo.webp">
                                 ISKOLAR<span class="trademark" style="font-size: 1svh;
     vertical-align: text-top;">TM</span>
@@ -282,11 +282,11 @@
             <div class="d-flex flex-column flex-grow-1">
                 <button class="btn user my-2 text-nowrap">
                     <span class="menu-icon  text-primary"><i class="bi bi-person-fill pe-2"></i></span>
-                    <span><h8>Welcome jrsantos30 !</h8></span>
+                    <span><h8>Welcome zebaptista !</h8></span>
                 </button>
                 <ul class="sidebar-nav flex-grow-1" style="overflow-y: auto; ">
                                                                         <li>
-                                <a class="menu-link"> Dashboard </a>
+                                <a class="menu-link"> Dashboard
                                     <div class="menu-item">
                                         <span class="menu-icon"><i class="bi bi-house-door-fill"></i></span>
                                         <span class="menu-text">Home</span>
@@ -307,7 +307,7 @@
                                 </a>
                                 <ul class="collapse mx-2" id="submenu-1">
                                                                             <li>
-                                            <a class="submenu-link"> My Advising </a>
+                                            <a class="submenu-link"> My Advising 
                                                 <div class="submenu-item">
                                                     <span class="submenu-icon"><i class="bi bi-check-square"></i></span>
                                                     <span class="submenu-text">My Advising</span>
@@ -315,7 +315,7 @@
                                             </a>
                                         </li>
                                                                             <li>
-                                            <a class="submenu-link"> Advising </a>
+                                            <a class="submenu-link"> Advising
                                                 <div class="submenu-item">
                                                     <span class="submenu-icon"><i class="bi bi-card-checklist"></i></span>
                                                     <span class="submenu-text">Add Classes</span>
@@ -323,7 +323,7 @@
                                             </a>
                                         </li>
                                                                             <li>
-                                            <a class="submenu-link"> Curriculum </a>
+                                            <a class="submenu-link"> Curriculum
                                                 <div class="submenu-item">
                                                     <span class="submenu-icon"><i class="bi bi-list-task"></i></span>
                                                     <span class="submenu-text">View Curriculum Plans</span>
@@ -333,7 +333,7 @@
                                                                     </ul>
                             </li>
                                                                                                 <li>
-                                <a class="menu-link"> Enrollment </a>
+                                <a class="menu-link"> Enrollment
                                     <div class="menu-item">
                                         <span class="menu-icon"><i class="bi bi-calendar-check-fill"></i></span>
                                         <span class="menu-text">Enrollment</span>
@@ -354,7 +354,7 @@
                                 </a>
                                 <ul class="collapse mx-2" id="submenu-3">
                                                                             <li>
-                                            <a class="submenu-link"> Add Slot Requests </a>
+                                            <a class="submenu-link"> Add Slot Requests
                                                 <div class="submenu-item">
                                                     <span class="submenu-icon"><i class="bi bi-journal-text"></i></span>
                                                     <span class="submenu-text">View Your Requests</span>
@@ -362,7 +362,7 @@
                                             </a>
                                         </li>
                                                                             <li>
-                                            <a class="submenu-link"> Add Slot </a>
+                                            <a class="submenu-link"> Add Slot
                                                 <div class="submenu-item">
                                                     <span class="submenu-icon"><i class="bi bi-journal-plus"></i></span>
                                                     <span class="submenu-text">Request Add Slot</span>
@@ -372,7 +372,7 @@
                                                                     </ul>
                             </li>
                                                                                                 <li>
-                                <a class="menu-link"> Grades </a>
+                                <a class="menu-link"> Grades
                                     <div class="menu-item">
                                         <span class="menu-icon"><i class="bi bi-123"></i></span>
                                         <span class="menu-text">Grades</span>
@@ -380,7 +380,7 @@
                                 </a>
                             </li>
                                                                                                 <li>
-                                <a class="menu-link"> Tuition Summary </a>
+                                <a class="menu-link"> Tuition Summary
                                     <div class="menu-item">
                                         <span class="menu-icon"><i class="bi bi-cash"></i></span>
                                         <span class="menu-text">Payments</span>
@@ -388,7 +388,7 @@
                                 </a>
                             </li>
                                                                                                 <li>
-                                <a class="menu-link" href="https://iskolar.upm.edu.ph/logout">
+                                <a class="menu-link">
                                     <div class="menu-item">
                                         <span class="menu-icon"><i class="bi bi-box-arrow-left"></i></span>
                                         <span class="menu-text">Log Out</span>
