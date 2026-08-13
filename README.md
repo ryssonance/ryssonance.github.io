@@ -569,10 +569,10 @@
                                             <td>
                         GR1
                     </td>
-                    <td class="text-end">3.00</td>
+                    <td class="text-end">3.75</td>
                     
                     <td class="text-end">
-                        <span class="position-relative  text-success" style="font-weight:800 ;">1.00</span> 
+                        <span class="position-relative  text-success" style="font-weight:800 ;">1.25</span> 
 
                         
                     </td>
@@ -670,7 +670,7 @@
                   </tr>
                   <tr>
                     <td>Total Grade Points</td>
-                    <td class="text-end">32.000</td>
+                    <td class="text-end">31.750</td>
                     <td class="text-end">108.500</td>
                   </tr>
                   <tr>
@@ -680,7 +680,7 @@
                   </tr>
                   <tr>
                     <td><strong>GWA</strong></td>
-                    <td class="text-end">1.7778</td>
+                    <td class="text-end">1.7639</td>
                     <td class="text-end"><strong>1.5282</strong></td>
                   </tr>
               </tbody>
@@ -1456,10 +1456,10 @@
                                 <td class="text-end">3.00</td>
                                 
                                 <td class="text-end">
-                                    <span class="position-relative  text-success" style="font-weight:800 ;">1.00</span> 
+                                    <span class="position-relative  text-success" style="font-weight:800 ;">1.25</span> 
                                     
                                 </td>
-                                <td class="text-end">3.000 </td>
+                                <td class="text-end">3.750 </td>
                                 <td></td>
 
                             </tr>
@@ -1589,7 +1589,7 @@
                   </tr>
                   <tr>
                     <td>Total Grade Points</td>
-                    <td class="text-end">32.000</td>
+                    <td class="text-end">31.750</td>
                     <td class="text-end">108.500</td>
                   </tr>
                   <tr>
@@ -1599,7 +1599,7 @@
                   </tr>
                   <tr>
                     <td><h4><strong>GWA</strong></h4></td>
-                    <td class="text-end"><h4><strong>1.7778</strong></h4></td>
+                    <td class="text-end"><h4><strong>1.7639</strong></h4></td>
                     <td class="text-end"><h4><strong>1.5282</strong></h4></td>
                   </tr>
               </tbody>
